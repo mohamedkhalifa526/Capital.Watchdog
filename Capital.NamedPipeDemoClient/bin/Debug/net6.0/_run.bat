@@ -1,0 +1,2 @@
+﻿
+Capital.NamedPipeDemoClient.exe "hello"

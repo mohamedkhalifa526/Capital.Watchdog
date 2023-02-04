@@ -1,0 +1,2 @@
+﻿
+Capital.TickSaver.exe "eurusd"

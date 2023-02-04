@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Capital.TickSaver": {
+      "commandName": "Project",
+      "commandLineArgs": "eurusd\r\n"
+    }
+  }
+}

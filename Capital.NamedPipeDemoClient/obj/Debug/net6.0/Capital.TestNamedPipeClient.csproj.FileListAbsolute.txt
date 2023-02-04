@@ -1,0 +1,17 @@
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\bin\Debug\net6.0\Capital.TestNamedPipeClient.exe
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\bin\Debug\net6.0\Capital.TestNamedPipeClient.deps.json
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\bin\Debug\net6.0\Capital.TestNamedPipeClient.runtimeconfig.json
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\bin\Debug\net6.0\Capital.TestNamedPipeClient.dll
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\bin\Debug\net6.0\Capital.TestNamedPipeClient.pdb
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\obj\Debug\net6.0\Capital.TestNamedPipeClient.csproj.AssemblyReference.cache
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\obj\Debug\net6.0\Capital.TestNamedPipeClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\obj\Debug\net6.0\Capital.TestNamedPipeClient.AssemblyInfoInputs.cache
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\obj\Debug\net6.0\Capital.TestNamedPipeClient.AssemblyInfo.cs
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\obj\Debug\net6.0\Capital.TestNamedPipeClient.csproj.CoreCompileInputs.cache
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\obj\Debug\net6.0\Capital.TestNamedPipeClient.dll
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\obj\Debug\net6.0\refint\Capital.TestNamedPipeClient.dll
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\obj\Debug\net6.0\Capital.TestNamedPipeClient.pdb
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\obj\Debug\net6.0\Capital.TestNamedPipeClient.genruntimeconfig.cache
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\obj\Debug\net6.0\ref\Capital.TestNamedPipeClient.dll
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\moham\OneDrive\Documents\Visual Studio 2022\Projects\CapitalNP\Capital.TestNamedPipeClient\Capital.TestNamedPipeClient\obj\Debug\net6.0\Capital.TestNamedPipeClient.csproj.CopyComplete
